@@ -1,0 +1,17 @@
+body{
+    background-image: url(./img1/sky1.jpg);
+    background-size: 1500px 600px;
+}
+h1{
+    color: red;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 20px;
+    text-transform: capitalize;
+}
